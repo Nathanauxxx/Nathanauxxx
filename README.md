@@ -1,4 +1,4 @@
-### oii eu sou o Nathan Augusto,desenvolvedor de web sites focado sempre na tecnologia!
+### oii eu sou o nathan augusto,desenvolvedor de web sites focado sempre na tecnologia!
 
 - 🔭 Hoje estou estudando e trabalhando com front-end e back-end
 - 🌱 Estudando Java e spring boot
